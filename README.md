@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanshDhar
-- 👀 I’m interested in Artifical Intelligence, Machine Learning, Computer Vision, Image Processing, Deep learning, Parallel and Distributed Computing, 3D Graphics, AR/VR technologies and robotics.
+- 👀 I’m interested and experienced in Artifical Intelligence, Machine Learning, Computer Vision, Image Processing, Deep learning, Parallel and Distributed Computing, 3D Graphics, AR/VR technologies and robotics.
 - 🌱 I’m currently pursuing my Master of Science in Computer Science (Artifical Intelligence) from USC.
 - 💞️ I’m looking to collaborate on any good projects or research work
 - 📫 Reach me at vdhar@usc.edu
